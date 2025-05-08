@@ -1,2 +1,2 @@
 # Week8-Assignment
-Creating an Afterschool Programs Database
+Afterschool Programs Database
